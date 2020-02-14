@@ -1,0 +1,29 @@
+Error message:
+CrashReport: 
+FileName:/_common/global.ashx
+LineNumber:4028
+Function:anonymousr:Cannotreadproperty'href'ofundefined
+ErrorReport:<CrmScriptErrorReport>
+  <ReportVersion>1.0</ReportVersion>
+  <ScriptErrorDetails>
+   <Message>Uncaught TypeError: Cannot read property 'href' of undefined</Message>
+   <Line>4028</Line>
+   <URL>/_common/global.ashx?ver=-1665914983</URL>
+   <PageURL>/_grid/cmds/dlg_bulkedit.aspx?iObjType=1&iTotal=3&dType=1</PageURL>
+   <Function>anonymousr:Cannotreadproperty'href'ofundefined</Function>
+   <FunctionRaw>TypeError: Cannot read property 'href' of undefined</FunctionRaw>
+   <CallStack>
+    <Function>anonymousr:Cannotreadproperty'href'ofundefined</Function>
+   </CallStack>
+  </ScriptErrorDetails>
+  <ClientInformation>
+   <BrowserUserAgent>Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36</BrowserUserAgent>
+   <BrowserLanguage>undefined</BrowserLanguage>
+   <SystemLanguage>undefined</SystemLanguage>
+   <UserLanguage>undefined</UserLanguage>
+   <ScreenResolution>1904x1079</ScreenResolution>
+   <ClientName>Web</ClientName>
+   <ClienState>Online</ClienState>
+   <ClientTime>2020-02-12T10:01:30</ClientTime>
+  </ClientInformation>
+</CrmScriptErrorReport>
